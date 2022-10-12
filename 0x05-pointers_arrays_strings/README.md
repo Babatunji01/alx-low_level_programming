@@ -1,2 +1,2 @@
-this directory is for pointers, arrays and strings
+starting on pointers, arrays and strings
 
